@@ -1,0 +1,14 @@
+test_lumerical_files
+x64
+*.sln
+*.vcproj
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.dll
+*.sdf
+*.suo
+.vs
+.vscode
+fsp_simulation
+
